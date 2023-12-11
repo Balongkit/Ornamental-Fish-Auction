@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header-control{
+    background-color: black;
+    width: 100%;
+    height: 90px;
+}
+
+.control-align{
+    width: 980px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.control-h1{
+    float: left;
+}
+
+.control-h1 img{
+    width: 200px;
+    height: 80px;
+    margin-top: 5px;
+}
+
+.login{
+    float: right;
+    font-family: Arial;
+    font-size: 13px;
+    color: gold;
+    margin-top: 20px;
+}
+
+.login p{
+    margin-left: 10px;
+}
+
+.inputtxt{
+        width: 150px;
+        height: 20px;
+        margin-left: 10px;
+        color: gold;
+        border-color: gold;
+        background-color: black;
+}
+
+.btn{
+    background-color: gold;
+    color: black;
+    font-family: Arial;
+    padding: 05px;
+    border: none;
+    border-radius: 03px;
+    margin-left: 05px;
+}
+
+.login a{
+    color: gold;
+    text-decoration: none;
+}
+
+.content-control{
+    width: 100%;
+    height: 100vh;
+    background-image: url(pexels-photo-5668473.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: gold;
+}
+
+/*.content-control{
+    width: 980px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left{
+    
+    margin-top: 20px;
+    width: 400px;
+    font-family: Arial;
+    color: #8a385f;
+}
+
+.left h3{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}*/
+
+.right{
+    float: right;
+    font-family: arial;
+    margin-top: 20px;
+    margin-right: 85px;
+}
+.right h1{
+    margin-left: 5px;
+}
+
+.right h1{
+    margin-left: 5px;
+}
+
+.right p{
+    margin-left: 5px;
+}
+
+
+.ipt{
+    width: 220px;
+    height: 35px;
+    margin-top: 10px;
+    margin-right: auto;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #95a5a6;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.ipt2{
+    width: 450px;
+    height: 35px;
+    border-radius: 03px;
+    padding-left: 10px;
+    font-size: 20px;
+    border: none;
+    border: 1px solid #95a5a6;
+    margin-left: 05px;
+    margin-top: 10px;
+}
+
+.bd{
+    margin-left: 05px;
+    margin-top: 10px;   
+}
+
+.dropdown{
+    width: 70px;
+    height: 30px;
+    margin-left: 05px;
+    margin-top: 5px;
+}
+
+.rb{
+    width: 30px;
+    height: 30pxpx;
+    margin-left: 05px;
+    margin-top: 5px;
+}
+
+.ft{
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 05px;
+}
+
+.btncreate{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    font: bold;
+    font-weight: 500;
+    font-family: arial;
+    background-color: black;
+    color: gold;
+    margin-left: 05px;
+}
